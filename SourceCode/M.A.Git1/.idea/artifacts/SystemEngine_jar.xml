@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="SystemEngine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SystemEngine_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SystemEngine.jar">
+        <element id="module-output" name="SystemEngine" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/commons-codec-1.12.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/commons-collections4-4.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/SystemEngine/src/lib/ext/commons-io-2.6.jar" />
+    </root>
+  </artifact>
+</component>

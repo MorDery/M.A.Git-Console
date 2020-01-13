@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="M.A.Git1:jar" />
+      <artifact name="SystemEngine:jar" />
+      <artifact name="UI:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="UI" />
+      <module name="M.A.Git1" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e10b0be9-a23f-4e8b-a245-39606860a051" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PGw7anTtA63QeCjyOfYfeHagwA" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomer\Desktop\JAVA\GitExam\M.A.Git1\SystemEngine\src\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileZipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileZipper" />
+      <module name="IO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="UI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="UI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Menu" />
+        <item itemvalue="Application.FileZipper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10b0be9-a23f-4e8b-a245-39606860a051" name="Default Changelist" comment="" />
+      <created>1563794365405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563794365405</updated>
+      <workItem from="1563794368779" duration="20780000" />
+      <workItem from="1563876138021" duration="25878000" />
+      <workItem from="1564040298278" duration="12913000" />
+      <workItem from="1564211365360" duration="6719000" />
+      <workItem from="1564219783963" duration="5284000" />
+      <workItem from="1564225378827" duration="8100000" />
+      <workItem from="1564301836027" duration="3080000" />
+      <workItem from="1564305370837" duration="1343000" />
+      <workItem from="1564307596346" duration="4337000" />
+      <workItem from="1564317238224" duration="1140000" />
+      <workItem from="1564417400554" duration="22355000" />
+      <workItem from="1564560086550" duration="3719000" />
+      <workItem from="1564652640526" duration="20889000" />
+      <workItem from="1564679026875" duration="1168000" />
+      <workItem from="1564680252184" duration="11122000" />
+      <workItem from="1564842577622" duration="101000" />
+      <workItem from="1564843111130" duration="393000" />
+      <workItem from="1564852657778" duration="27000" />
+      <workItem from="1564899698465" duration="31562000" />
+      <workItem from="1565089738000" duration="9370000" />
+      <workItem from="1565121273812" duration="8783000" />
+      <workItem from="1565354002167" duration="31037000" />
+      <workItem from="1565513580432" duration="11269000" />
+      <workItem from="1565528131800" duration="333000" />
+      <workItem from="1565596276454" duration="3177000" />
+      <workItem from="1565599941084" duration="48000" />
+      <workItem from="1565600036020" duration="27440000" />
+      <workItem from="1565628897996" duration="210000" />
+      <workItem from="1565629962223" duration="590000" />
+      <workItem from="1565687043571" duration="17203000" />
+      <workItem from="1565715730910" duration="5369000" />
+      <workItem from="1565770459808" duration="9006000" />
+      <workItem from="1565783726372" duration="2910000" />
+      <workItem from="1565798481654" duration="6106000" />
+      <workItem from="1565805221610" duration="4564000" />
+      <workItem from="1565865783611" duration="523000" />
+      <workItem from="1565866760984" duration="5165000" />
+      <workItem from="1565872572637" duration="6440000" />
+      <workItem from="1565882649285" duration="2802000" />
+      <workItem from="1565893112722" duration="2180000" />
+      <workItem from="1565898006901" duration="47000" />
+      <workItem from="1567452311274" duration="847000" />
+      <workItem from="1567453177477" duration="3564000" />
+      <workItem from="1567494434629" duration="1494000" />
+      <workItem from="1567496104824" duration="1210000" />
+      <workItem from="1567497421322" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SystemEngine/src/jaxb/schema/generated/ObjectFactory.java</url>
+          <line>185</line>
+          <properties class="jaxb.schema.generated.ObjectFactory" method="createHead">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UI/src/Menu.java</url>
+          <line>423</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UI/src/Menu.java</url>
+          <line>374</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((HashMap)((Menu)this).m_MyMagit.m_CurrentRepository.m_Branches).entrySet().toArray()[1]" custom="Menu,java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/M_A_Git1$Main.ic" NAME="Main Coverage Results" MODIFIED="1564668345532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
